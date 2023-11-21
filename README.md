@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shalvitripathi007
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on Front End.
+- 💞️ I’m looking to collaborate on Front End
 - 📫 How to reach me shalvitripathi245@gmail.com
 
 <!---
